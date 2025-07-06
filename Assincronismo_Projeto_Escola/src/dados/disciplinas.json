@@ -1,0 +1,64 @@
+{
+  "disciplinas": [
+    {
+      "codigo": "MAT101",
+      "nome": "Matemática Básica"
+    },
+    {
+      "codigo": "FIS201",
+      "nome": "Física I"
+    },
+    {
+      "codigo": "QUI301",
+      "nome": "Química Geral"
+    },
+    {
+      "codigo": "BIO102",
+      "nome": "Biologia Celular"
+    },
+    {
+      "codigo": "HIS202",
+      "nome": "História Moderna"
+    },
+    {
+      "codigo": "GEO103",
+      "nome": "Geografia Física"
+    },
+    {
+      "codigo": "LIT104",
+      "nome": "Literatura Brasileira"
+    },
+    {
+      "codigo": "FIL105",
+      "nome": "Filosofia Contemporânea"
+    },
+    {
+      "codigo": "SOC106",
+      "nome": "Sociologia"
+    },
+    {
+      "codigo": "EDU107",
+      "nome": "Educação Física"
+    },
+    {
+      "codigo": "ART108",
+      "nome": "Artes Visuais"
+    },
+    {
+      "codigo": "INF109",
+      "nome": "Introdução à Informática"
+    },
+    {
+      "codigo": "ING110",
+      "nome": "Inglês Técnico"
+    },
+    {
+      "codigo": "ESP111",
+      "nome": "Espanhol Básico"
+    },
+    {
+      "codigo": "ADM112",
+      "nome": "Administração Escolar"
+    }
+  ]
+}
